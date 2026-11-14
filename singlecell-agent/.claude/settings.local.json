@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda env *)",
+      "Bash(pip list *)",
+      "Bash(conda run *)",
+      "Bash(python3)"
+    ]
+  }
+}

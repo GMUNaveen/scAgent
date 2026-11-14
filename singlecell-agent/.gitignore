@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.DS_Store
+.scrna_workspace/
+
+# data lives outside git; see scripts/get_data.sh
+data/
+scrna_data.tar.gz*
